@@ -1,11 +1,11 @@
 # pizzatablaNodeJS
 
-open terminal 
-"""
+##open terminal 
+```
 cd ./Libary 
-"""
-and run
-"""
+```
+##and run
+```
 node index.js
-"""
+```
 and it's done
